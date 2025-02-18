@@ -1,6 +1,6 @@
 # Baki - XAU/USD Scalper Bot
 
-**Nom du Bot :** Baki  
+**Nom du Bot :** Baki Hanma 
 **Type de Bot :** Scalper pour le trading XAU/USD (Or contre Dollar)  
 **Technologie :** MQL5 (MetaTrader 5)
 
