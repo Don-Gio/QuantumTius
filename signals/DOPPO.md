@@ -6,7 +6,7 @@ Bienvenue dans le bot **Doppo** ! Inspiré de l'univers puissant de *Baki*, **Do
 
 ## 🧠 Description du Bot
 
-**Nom :** Doppo  
+**Nom :** Doppo Orochi  
 **Type de trading :** Signal (Scalping)  
 **Actif :** BTC/USD (Bitcoin/Dollar)  
 **Objectif :** Fournir des signaux de trading précis pour acheter ou vendre du Bitcoin contre le Dollar américain, en se basant sur des indicateurs comme la **Moyenne Mobile** et le **RSI (Relative Strength Index)**.
