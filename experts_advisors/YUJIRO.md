@@ -1,6 +1,7 @@
 # Yujiro - BTC/USD Scalper Bot
 
-**Nom du Bot :** Yujiro 
+**Nom du Bot :** Yujiro Hanma
+
 **Type de Bot :** Scalper pour le trading BTC/USD  
 **Technologie :** MQL5 (MetaTrader 5)
 
