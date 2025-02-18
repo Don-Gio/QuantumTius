@@ -1,4 +1,4 @@
-# Yuujirou - BTC/USD Scalper Bot
+# Yujiro - BTC/USD Scalper Bot
 
 **Nom du Bot :** Yujiro 
 **Type de Bot :** Scalper pour le trading BTC/USD  
