@@ -6,7 +6,7 @@ Bienvenue dans le bot **Kaku** ! Inspiré de l'esprit implacable et stratégique
 
 ## 🧠 Description du Bot
 
-**Nom :** Kaku  
+**Nom :** Kaku Kaioh  
 **Type de trading :** Signal (Scalping)  
 **Actif :** XAU/USD (Or / Dollar)  
 **Objectif :** Fournir des signaux d'achat ou de vente sur la paire **XAU/USD** en utilisant des indicateurs techniques comme la **Moyenne Mobile** et le **RSI (Relative Strength Index)**.
