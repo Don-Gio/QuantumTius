@@ -4,7 +4,7 @@ Bienvenue dans le bot **Doppo** ! Inspiré de l'univers puissant de *Baki*, **Do
 
 ---
 
-## 🧠 Description du Bot
+## 🧠 Description du Bot <img src="../images/doppo.png" alt="Doppo Bot" width="150" height="150" align="right" style="border-radius: 50%;">
 
 **Nom :** Doppo Orochi  
 **Type de trading :** Signal (Scalping)  

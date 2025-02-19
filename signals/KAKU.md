@@ -4,7 +4,7 @@ Bienvenue dans le bot **Kaku** ! Inspiré de l'esprit implacable et stratégique
 
 ---
 
-## 🧠 Description du Bot
+## 🧠 Description du Bot <img src="../images/kaku_Kaioh.png" alt="Doppo Bot" width="150" height="150" align="right" style="border-radius: 50%;">
 
 **Nom :** Kaku Kaioh  
 **Type de trading :** Signal (Scalping)  

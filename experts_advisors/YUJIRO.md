@@ -1,14 +1,14 @@
 # ⚡ **Yujiro** - BTC/USD Scalper Bot ⚡
 
-**Nom du Bot :** Yujiro Hanma  
-**Type de Bot :** Scalper pour le trading BTC/USD  
-**Technologie :** MQL5 (MetaTrader 5)
+**Yujiro** est un bot de trading automatisé conçu spécifiquement pour le marché des cryptomonnaies, en particulier pour le **trading de BTC/USD**. Ce scalper utilise des indicateurs techniques éprouvés tels que la **Moyenne Mobile (SMA)** et le **Relative Strength Index (RSI)** pour détecter les meilleures opportunités de trading et exécuter des transactions à court terme.
 
 ---
 
-## 🧠 **Description du Bot**
+## 🧠 **Description du Bot** <img src="../images/Yujiro_Hanma.png" alt="Doppo Bot" width="150" height="150" align="right" style="border-radius: 50%;">
 
-**Yujiro** est un bot de trading automatisé conçu spécifiquement pour le marché des cryptomonnaies, en particulier pour le **trading de BTC/USD**. Ce scalper utilise des indicateurs techniques éprouvés tels que la **Moyenne Mobile (SMA)** et le **Relative Strength Index (RSI)** pour détecter les meilleures opportunités de trading et exécuter des transactions à court terme.
+**Nom du Bot :** Yujiro Hanma  
+**Type de Bot :** Scalper pour le trading BTC/USD  
+**Technologie :** MQL5 (MetaTrader 5)
 
 Inspiré de l'ultime combattant **Yujiro Hanma** de *Baki*, ce bot applique une stratégie implacable, prenant des décisions rapides et calculées pour exploiter les petites fluctuations de prix tout en limitant les risques grâce à une gestion efficace du **Take Profit** et du **Stop Loss**.
 
