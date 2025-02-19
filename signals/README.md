@@ -8,11 +8,7 @@ Chaque bot incarne la force, la détermination et la rapidité, tout comme les p
 
 ## 💥 Bots de Scalping Disponibles
 
-### 1. **Doppo - BTC/USD Scalper** 💰
-<p align="left">
-  <img src="./doppo.png" alt="Doppo Bot" width="150" height="150" style="border-radius: 50%;">
-</p>
-
+### 1. **Doppo - BTC/USD Scalper** 💰 <img src="./doppo.png" alt="Doppo Bot" width="150" height="150" align="right" style="border-radius: 50%;">
 **Nom du Bot :** *Doppo - BTC/USD Scalper*  
 **Description :** Ce bot utilise des stratégies de scalping pour capturer les petites fluctuations du marché **Bitcoin** contre le **Dollar**.  
 Il repose sur des indicateurs puissants comme la **Moyenne Mobile** et le **RSI** pour prendre des décisions rapides et précises.  
@@ -27,11 +23,7 @@ Idéal pour ceux qui cherchent à profiter des opportunités à court terme sur 
 
 ---
 
-### 2. **Kaku - XAU/USD Scalper** 🏅
-<p align="left">
-  <img src="./kaku_Kaioh.png" alt="Doppo Bot" width="150" height="150" style="border-radius: 50%;">
-</p>
-
+### 2. **Kaku - XAU/USD Scalper** 🏅 <img src="./kaku_Kaioh.png" alt="Doppo Bot" width="150" height="150" align="right" style="border-radius: 50%;">
 **Nom du Bot :** *Kaku - XAU/USD Scalper*  
 **Description :** Ce bot est conçu pour le scalping sur le marché de l'**or** contre le **Dollar**. Il utilise les mêmes indicateurs que son homologue BTC/USD mais adapté pour la paire **XAU/USD**.  
 Avec sa rapidité et sa stratégie implacable, il est conçu pour saisir chaque mouvement à la hausse et à la baisse du prix de l’or. 💎
