@@ -1,4 +1,4 @@
-# QuantumTius <img src="./quantum.png" alt="Doppo Bot" width="150" height="150" align="right" style="border-radius: 50%;">
+# QuantumTius <img src="./images/quantum.png" alt="Doppo Bot" width="150" height="150" align="right" style="border-radius: 50%;">
 
 **QuantumTius** est un dépôt centralisé pour les experts advisors (EAs), les signaux de trading, et autres outils créés avec le langage **MQL5** pour **MetaTrader 5 (MT5)**. Ce projet rassemble des stratégies automatisées, des scripts de trading et des solutions d'optimisation pour les traders utilisant MT5, avec un focus particulier sur le scalping des paires **BTC/USD** et **XAU/USD**.
 

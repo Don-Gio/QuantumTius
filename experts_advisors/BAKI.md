@@ -1,14 +1,15 @@
 # ⚡ Baki - XAU/USD Scalper Bot ⚡
 
+**Baki Hanma** est un bot de trading automatisé conçu pour dominer le marché de l'or (XAU/USD). À l'instar du personnage Baki dans *Baki*, il utilise des stratégies puissantes et affûtées pour capturer des mouvements rapides du marché. Ce bot de scalping exploite des indicateurs techniques éprouvés tels que la **Moyenne Mobile (SMA)** et le **RSI (Relative Strength Index)** pour détecter les opportunités de trading à court terme, tout en maximisant les profits des petites fluctuations.
+
+---
+
+## 🧠 Description du bot <img src="../images/Baki_hanma.png" alt="Doppo Bot" width="150" height="150" align="right" style="border-radius: 50%;">
+
 **Nom du Bot :** Baki Hanma  
 **Type de Bot :** Scalper pour le trading XAU/USD (Or contre Dollar)  
 **Technologie :** MQL5 (MetaTrader 5)
 
----
-
-## 🧠 Description
-
-**Baki Hanma** est un bot de trading automatisé conçu pour dominer le marché de l'or (XAU/USD). À l'instar du personnage Baki dans *Baki*, il utilise des stratégies puissantes et affûtées pour capturer des mouvements rapides du marché. Ce bot de scalping exploite des indicateurs techniques éprouvés tels que la **Moyenne Mobile (SMA)** et le **RSI (Relative Strength Index)** pour détecter les opportunités de trading à court terme, tout en maximisant les profits des petites fluctuations.
 
 ---
 
