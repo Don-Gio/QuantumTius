@@ -9,6 +9,10 @@ Chaque bot incarne la force, la détermination et la rapidité, tout comme les p
 ## 💥 Bots de Scalping Disponibles
 
 ### 1. **Doppo - BTC/USD Scalper** 💰
+<p align="left">
+  <img src="./doppo.jpg" alt="Doppo Bot" width="150" height="150" style="border-radius: 50%;">
+</p>
+
 **Nom du Bot :** *Doppo - BTC/USD Scalper*  
 **Description :** Ce bot utilise des stratégies de scalping pour capturer les petites fluctuations du marché **Bitcoin** contre le **Dollar**.  
 Il repose sur des indicateurs puissants comme la **Moyenne Mobile** et le **RSI** pour prendre des décisions rapides et précises.  
